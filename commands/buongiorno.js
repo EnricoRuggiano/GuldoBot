@@ -24,10 +24,10 @@ module.exports = {
 
 		let count = 0;
 		let reaction = 0;
-		const MAX = 100;
+		const MAX = 50;
 		const TIME_MIN = 4000;
 		const TIME_MAX = 10000;
-		let REACTION_THRESHOLD = Math.floor(randomRange(3, MAX));
+		let REACTION_THRESHOLD = Math.floor(randomRange(3, Math.floor(MAX/3)));
 
 		// vai con le gif ora
 		while (count < MAX && girls.length > 0)
@@ -50,5 +50,6 @@ module.exports = {
 			} 
 		}
 		console.log('BUONGIORNO ENDED ')
+		await interaction.followUp("QUA HO FINITO, CHE DICI CONTINUIAMO A MIGLIORARE LA GIORNATA?");
 	},
 };
