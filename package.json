@@ -1,0 +1,27 @@
+{
+  "name": "guldobot",
+  "version": "1.0.0",
+  "description": "a discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnricoRuggiano/GuldoBot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "guldo"
+  ],
+  "author": "LalalaCiccio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnricoRuggiano/GuldoBot/issues"
+  },
+  "homepage": "https://github.com/EnricoRuggiano/GuldoBot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
