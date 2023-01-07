@@ -1,5 +1,6 @@
 const { SlashCommandBuilder } = require('discord.js');
 const wait = require('node:timers/promises').setTimeout;
+const guldo = require('../gif/guldo.json')
 
 module.exports = {
 	data: new SlashCommandBuilder()
@@ -7,8 +8,11 @@ module.exports = {
 		.setDescription('Saluta la gente'),
 	async execute(interaction) {
         console.log(interaction.user);
-		await interaction.reply(`Bella ${interaction.user.username}!`);
+
+		let i = Math.floor(Math.random() * guldo.length);
+
+        await interaction.reply(`Bella ${interaction.user.username}!`);
         await wait(2000);
-        await interaction.followUp("https://tenor.com/view/norman-osborn-spider-man-smile-gif-24532865");
+        await interaction.followUp(guldo[i]['link']);
     },
 };
