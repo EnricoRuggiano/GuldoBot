@@ -9,10 +9,8 @@ module.exports = {
 	async execute(interaction) {
         console.log(interaction.user);
 
-		let i = Math.floor(Math.random() * guldo.length);
-
         await interaction.reply(`Bella ${interaction.user.username}!`);
         await wait(2000);
-        await interaction.followUp(guldo[i]['link']);
+        await interaction.followUp("https://tenor.com/view/norman-osborn-spider-man-smile-gif-24532865");
     },
 };
