@@ -1,1 +1,25 @@
-[]
+{
+    "songs":
+    [   "!play body type a line",
+        "!PLAY DEATH VALLEY GIRLS PARADISE BLUES",
+        "!play death valley girls the universe"
+    ],
+    "intro":
+    {
+      "messaggio": "GENTILI SIGNORI E SIGNORE, VI INVITIAMO A SEDERVI E A METTERVI COMODI, LA PROIEZIONE STA PER INCOMINCIARE. LE AUGURIAMO UNA PIACEVOLE VISIONE SOLO SU MIDNIGHT MOVIE GULDO 🌃",
+      "gif": "https://media.giphy.com/media/Y2DghjlMkJUDm/giphy.gif",
+      "theme": "https://www.youtube.com/watch?v=MOwGBzbXb8k"
+    },
+    "gif":
+    [
+        "https://media.discordapp.net/attachments/1015020594292588554/1055124664738926683/ezgif-1-a0e5bb89e9.gif",
+        "https://gfycat.com/cleverfocusedamericancreamdraft",
+        "https://tenor.com/view/disque-bon-i-see-you-peek-gif-14809953",
+        "https://gfycat.com/cleverfocusedamericancreamdraft",
+        "https://tenor.com/view/waiting-for-you-algorithm-mirror-pretty-gif-16146113",
+        "https://tenor.com/view/coming-soon-wrestling-grindhouse-gif-24840246",
+        "https://i.gifer.com/618I.gif",
+        "https://media.discordapp.net/attachments/1015020594292588554/1017552261548871800/da6f534778b3caa0c36802db49570738ae4b8f4d-591770045.gif",
+        "https://tenor.com/view/333-gif-24103517"
+    ]
+}
