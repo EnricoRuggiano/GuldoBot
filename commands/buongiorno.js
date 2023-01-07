@@ -27,7 +27,7 @@ module.exports = {
 		const MAX = 50;
 		const TIME_MIN = 4000;
 		const TIME_MAX = 10000;
-		let REACTION_THRESHOLD = Math.floor(randomRange(3, Math.floor(MAX/3)));
+		let REACTION_THRESHOLD = Math.floor(randomRange(3, Math.floor(MAX/2)));
 
 		// vai con le gif ora
 		while (count < MAX && girls.length > 0)
@@ -46,7 +46,7 @@ module.exports = {
 				shuffle(reactions);
 				await wait(randomRange(TIME_MIN, TIME_MAX));
 				reaction = 0;
-				REACTION_THRESHOLD = Math.floor(randomRange(3, MAX))
+				REACTION_THRESHOLD = Math.floor(randomRange(3, MAX/2))
 			} 
 		}
 		console.log('BUONGIORNO ENDED ')
