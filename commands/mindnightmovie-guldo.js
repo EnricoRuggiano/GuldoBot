@@ -19,18 +19,24 @@ module.exports = {
         await interaction.followUp(intro.gif);
         await wait(5000);
 
-		// songs
-		// for(let s of songs)
-		// {
-		// 	await interaction.followUp(s);
-		// 	await wait(2000);
-		// }
+		function shuffle(arr) { arr.sort(() => Math.random() - 0.5); }
+		function randomRange(min, max) { return Math.random() * (max - min) + min; }
+
+		let count = 0;
+		let reaction = 0;
+		const MAX = 50;
+		const TIME_MIN = 4000;
+		const TIME_MAX = 10000;
+		let REACTION_THRESHOLD = Math.floor(randomRange(3, Math.floor(MAX/2)));
 
 		// vai con le gif ora
-		for(let g of gif)
+		while (count < MAX && gif.length > 0)
 		{
-			await interaction.followUp(g);
-			await wait(Math.random() * (8000 - 2000) + 1000);
+			shuffle(gif);
+			await interaction.followUp(gif.pop());
+			await wait(randomRange(TIME_MIN, TIME_MAX));
+			reaction += 1;
+			count += 1;
 		}
 
 	},
