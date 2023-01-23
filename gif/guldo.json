@@ -54,6 +54,23 @@
         "umore": "stupito",
         "come-stai": "Oggi mi sento ispirato...",
         "atteggiamento": "positivo"
+    },
+    {
+        "name": "guldo-non-molla",
+        "link": "https://tenor.com/view/green-goblin-spider-man-norman-osborn-gif-24532891",
+        "come-stai": "Continua",
+        "atteggiamento": "continua"
+    },
+    {
+        "name": "guldo-ne-vuole-ancora",
+        "link": "https://media.giphy.com/media/d11j4By0L4cdxQbo3X/giphy.gif",
+        "come-stai": "HO DETTO ... ANCORA",
+        "atteggiamento": "continua"
+    },
+    {
+        "name": "guldo-vuole-mjane",
+        "link": "https://tenor.com/view/willem-dafoe-creep-creeper-spiderman-harry-osborn-gif-11877161",
+        "come-stai": "Sbalorditivo...",
+        "atteggiamento": "continua"
     }
-
 ]
