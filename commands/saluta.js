@@ -6,7 +6,8 @@ module.exports = {
 	data: new SlashCommandBuilder()
 		.setName('saluta')
 		.setDescription('Saluta la gente'),
-	async execute(interaction) {
+	async execute(interaction) 
+    {
         console.log(interaction.user);
 
         await interaction.reply(`Bella ${interaction.user.username}!`);

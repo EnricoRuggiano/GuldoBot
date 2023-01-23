@@ -1,17 +1,15 @@
 {
     "songs":
-    [   "!play body type a line",
+    [   
+        "!play https://www.youtube.com/watch?v=MOwGBzbXb8k",
+        "!play body type a line",
         "!PLAY DEATH VALLEY GIRLS PARADISE BLUES",
         "!play death valley girls the universe"
     ],
-    "intro":
-    {
-      "messaggio": "GENTILI SIGNORI E SIGNORE, VI INVITIAMO A SEDERVI E A METTERVI COMODI, LA PROIEZIONE STA PER INCOMINCIARE. LE AUGURIAMO UNA PIACEVOLE VISIONE SOLO SU MIDNIGHT MOVIE GULDO 🌃",
-      "gif": "https://media.giphy.com/media/Y2DghjlMkJUDm/giphy.gif",
-      "theme": "https://www.youtube.com/watch?v=MOwGBzbXb8k"
-    },
     "gif":
     [
+        "https://media.discordapp.net/attachments/847153691945467945/1065666801251385484/Les_Deuxluxes__Lighter_Fluid_LIVE_2.gif",
+        "https://media.discordapp.net/attachments/847153691945467945/1065663813803835452/Death_Valley_Girls__The_Universe_OFFICIAL_VIDEO_1.gif",
         "https://media.discordapp.net/attachments/1015020594292588554/1055124664738926683/ezgif-1-a0e5bb89e9.gif",
         "https://gfycat.com/cleverfocusedamericancreamdraft",
         "https://tenor.com/view/disque-bon-i-see-you-peek-gif-14809953",
