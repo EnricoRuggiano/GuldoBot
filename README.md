@@ -71,6 +71,22 @@ Well, what about the **80s** and **classic love songs**. Prepare yourself that o
 
 
 ---
+## Installation
+
+Just simple as always:
+
+```
+make build
+```
+
+And to run locally the bot:
+
+```
+make start
+```
+
+---
+
 
 # License and Notes
 
