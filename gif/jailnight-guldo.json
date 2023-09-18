@@ -1,1 +1,77 @@
-[]
+{
+    "songs":
+    [   
+        "!play https://www.youtube.com/watch?v=CWv079x4taM",
+        "!play https://youtu.be/VLuylbiD3zM",
+        "!PLAY https://youtu.be/o5xexv-dMrM",
+        "!play https://www.youtube.com/watch?v=Qd9ULJf2jqU",
+        "!play https://www.youtube.com/watch?v=N3A8uNG3GH4",
+        "!play https://youtu.be/ykFaghWjvl4"
+    ],
+    "into": [
+        "https://tenor.com/view/playing-slide-guitar-aerosmith-rag-doll-song-solo-playing-playing-instrument-gif-23513935"
+    ],
+    "cop": [
+        "https://tenor.com/view/x-files-fbi-gif-10430507",
+        "https://tenor.com/view/annoyed-gillian-anderson-scully-eye-roll-bitchplease-gif-5271004",
+        "https://tenor.com/view/dana-scully-the-x-files-skeptical-gillian-anderson-jeanmilfburn-gif-22011453",
+        "https://tenor.com/view/scully-xfiles-agent-gif-5013770",
+        "https://tenor.com/view/dana-skully-xfiles-smoking-hot-gif-13725895",
+        "https://tenor.com/view/gillian-anderson-xfiles-mulder-scully-gif-19501433",
+        "https://tenor.com/view/smoke-scully-light-it-up-gif-13894058",
+        "https://tenor.com/view/x-files-gillian-anderson-dana-scully-hey-hello-gif-4928145",
+        "https://tenor.com/view/dana-scully-the-x-files-gillian-anderson-skeptical-jeanmilfburn-gif-22011385"
+    ],
+    "thief": [
+        "https://tenor.com/view/soa-gif-26198868",
+        "https://tenor.com/view/jax-tearing-up-crying-sons-of-anarchy-fx-gif-5977240",
+        "https://tenor.com/view/smiles-smile-gif-19400893",
+        "https://tenor.com/view/soa-sonsofanarchy-jax-jaxteller-jacksonteller-gif-16064405",
+        "https://tenor.com/view/jax-crying-sons-of-anarchy-upset-night-gif-11109876",
+        "https://tenor.com/view/cops-police-sirens-catching-crminals-what-you-gonna-do-gif-22472645",
+        "https://tenor.com/view/jax-teller-gif-22808327",
+        "https://tenor.com/view/sons-anarchy-of-gif-19937809",
+        "https://tenor.com/view/jax-teller-gif-24006013",
+        "https://tenor.com/view/charlie-hunnam-gif-20440147"
+
+    ],
+    "gif":
+    [
+        "https://tenor.com/view/get-back-prisoner-bad-boy-valesca-popozuda-one-rpm-gif-10233294",
+        "https://tenor.com/view/police-woman-im-gonna-need-to-see-license-registration-proof-of-penis-gif-14393379",
+        "https://tenor.com/view/youre-under-arrest-arresting-detaining-capturing-fbi-gif-14206966",
+        "https://tenor.com/view/wtf-is-going-on-police-help-me-jim-morrison-the-doors-gif-17715709",
+        "https://tenor.com/view/sean-young-ace-ventura-villainous-man-in-drag-gif-18646428",
+        "https://tenor.com/view/whip-whipped-whipping-officer-spank-gif-19942771",
+        "https://tenor.com/view/fbi-detective-gif-19257159",
+        "https://tenor.com/view/fbi-badge-miss-congeniality-gif-11190863",
+        "https://tenor.com/view/reno-rained-raines-lorenzo-lamas-gif-18255714",
+        "https://tenor.com/view/nicole-haught-season2uniform-s2uniform-squad-car-door-open-gif-21547676",
+        "https://tenor.com/view/looney-tunes-bugs-bunny-prison-prisoner-bugs-gif-16674533",
+        "https://tenor.com/view/unforgettable-carrie-wells-police-freeze-gif-5603535",
+        "https://tenor.com/view/jailhouse-rock-elvis-gif-10529986",
+        "https://tenor.com/view/the-clash-skyline-gif-20936423",
+        "https://tenor.com/view/police-costume-angel-vsfs-victorias-secret-victorias-secret-fasion-show-gif-13764354",
+        "https://tenor.com/view/bra-hot-women-gif-14836205",
+        "https://tenor.com/view/tricia-helfer-naughty-cop-hot-sexy-gif-19292851",
+        "https://tenor.com/view/maggie-sawyer-floriana-lima-police-fbi-gif-12438797",
+        "https://tenor.com/view/tricia-helfer-naughty-cop-hot-sexy-gif-19292754",
+        "https://tenor.com/view/how-you-doing-you-like-it-you-like-that-police-officer-cop-gif-15812113",
+        "https://tenor.com/view/busted-spinal-tap-this-is-spinal-tap-harry-shearer-derek-smalls-gif-5323182",
+        "https://tenor.com/view/hands-up-jennifer-lyons-bo-brooks-korrina-rico-jazz-diaz-gif-16678594",
+        "https://tenor.com/view/jake-blues-bros-release-gif-20963914",
+        "https://tenor.com/view/jim-carrey-aceventura-funny-gif-3533012",
+        "https://tenor.com/view/ace-ventura-jim-carrey-you-gun-is-digging-into-my-hip-pet-detective-gif-17132731",
+        "https://tenor.com/view/scully-xfiles-agent-gif-5013770",
+        "https://tenor.com/view/dana-skully-xfiles-smoking-hot-gif-13725895",
+        "https://tenor.com/view/smoke-scully-light-it-up-gif-13894058",
+        "https://tenor.com/view/x-files-fbi-gif-10430507",
+        "https://tenor.com/view/x-files-gillian-anderson-dana-scully-hey-hello-gif-4928145",
+        "https://tenor.com/view/dana-scully-the-x-files-gillian-anderson-skeptical-jeanmilfburn-gif-22011385",
+        "https://tenor.com/view/soa-gif-26198868",
+        "https://tenor.com/view/jax-tearing-up-crying-sons-of-anarchy-fx-gif-5977240",
+        "https://tenor.com/view/soa-sonsofanarchy-jax-jaxteller-jacksonteller-gif-16064405",
+        "https://tenor.com/view/jax-crying-sons-of-anarchy-upset-night-gif-11109876",
+        "https://tenor.com/view/cops-police-sirens-catching-crminals-what-you-gonna-do-gif-22472645"
+    ]
+}

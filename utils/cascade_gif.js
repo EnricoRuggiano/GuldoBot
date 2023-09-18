@@ -1,6 +1,6 @@
 const wait = require('node:timers/promises').setTimeout;
 
-async function cascade_gif(interaction, gifBible)
+async function cascade_gif(interaction, gifBible, max)
 {
     let reactions = 'reactions' in gifBible? gifBible.reactions : [];
     let girls     = 'gif'       in gifBible? gifBible.gif : [];
@@ -20,7 +20,7 @@ async function cascade_gif(interaction, gifBible)
 
     let count = 0;
     let reaction = 0;
-    const MAX = 40;
+    const MAX = max? max : 40;
     const TIME_MIN = 4000;
     const TIME_MAX = 10000;
     let REACTION_THRESHOLD = Math.floor(randomRange(3, Math.floor(MAX/2)));
