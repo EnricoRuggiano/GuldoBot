@@ -1,10 +1,9 @@
 {
-    "intro":
-    {
-      "messaggio": "Buongiorno",
-      "gif": "https://tenor.com/view/sasha-grey-blowing-kisses-kiss-kisses-love-gif-15002372",
-      "theme": "https://www.youtube.com/watch?v=MOwGBzbXb8k"
-    },
+    "songs": [
+        "!play https://youtu.be/YtkKN4dHRes?feature=shared",
+        "!play https://youtu.be/jd-qI62gNJM?feature=shared",
+        "!play https://youtu.be/YUY9Y9RFiHY?"
+    ],
     "reactions": [
         "https://tenor.com/view/willem-dafoe-oh-yeah-hehehe-smirk-evil-grin-gif-25426773",
         "https://media.giphy.com/media/CChBdD9DIyAbS/giphy.gif",

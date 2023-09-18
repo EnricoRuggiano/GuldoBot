@@ -1,6 +1,7 @@
 const { SlashCommandBuilder } = require('discord.js');
 const wait = require('node:timers/promises').setTimeout;
-const midnightmovie = require('../gif/midnightmovie-guldo.json')
+const midnightmovie = require('../gif/midnightmovie-guldo.json');
+songs_helper = require('../utils/songs_helper');
 cascade_gif = require('../utils/cascade_gif');
 
 module.exports = {
@@ -21,6 +22,7 @@ module.exports = {
 		await interaction.followUp("ATTENZIONE IL PROGRAMMA E' CONSIGLIATO AD UN PUBBLICO ADULTO");
         await wait(1500);
 
+		await songs_helper(interaction, midnightmovie);
 		await cascade_gif(interaction, midnightmovie);
 	},
 };
