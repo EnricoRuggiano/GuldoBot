@@ -2,7 +2,7 @@
 
 The first funny discord bot to play a list of selected gifs as if it was a radio channel.
 
-<img src='./docs/willem-dafoe-oh-yeah.gif' width=50%></img>
+<img src='./docs/guldo.gif' width=70%></img>
 
 ## The channels
 
