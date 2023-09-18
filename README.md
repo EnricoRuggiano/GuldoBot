@@ -2,7 +2,7 @@
 
 The first funny discord bot to play a list of selected gifs as if it was a radio channel.
 
-[](docs/willem-dafoe-oh-yeah.gif)
+![](docs/willem-dafoe-oh-yeah.gif)
 
 ---
 
@@ -16,11 +16,8 @@ The duration of the channel is different and generally depends on the number of 
 Feel free to change/add/remove gifs in the channels dictionary at `/gifs`
 
 
-```
-I strongly suggest you to combine this bot with a Music Player Bot so you can listen to the music and watch the gifs at the same time for an incredible experience
-
-```
-
+> [ ! IMPORTANT ]
+> I strongly suggest you to combine this bot with a Music Player Bot so you can listen to the music and watch the gifs at the same time for an incredible experience 
 
 ### /buongiorno 
 
@@ -73,12 +70,12 @@ Well, what about the **80s** and **classic love songs**. Prepare yourself that o
 
 # License and Notes
 
-```
-Just a simple bot, maybe funny but nothing serius. Me and my friends were very happy to play this bot during the quarantine.
 
-Guldo comes from the famous DragonBall Z enemy. Anyway I think that William Defoe in Spiderman is a much better representation of this funny bot.
+>Just a simple bot, maybe funny but nothing serius. Me and my friends were very happy to play with this bot during the quarantine.
 
-```
+>Guldo comes from the famous DragonBall Z enemy. Anyway I think that William Defoe in Spiderman is a much better representation of this funny bot.
+
+
 
 
 
