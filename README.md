@@ -2,10 +2,7 @@
 
 The first funny discord bot to play a list of selected gifs as if it was a radio channel.
 
-![](docs/willem-dafoe-oh-yeah.gif)
-
----
-
+<img src='./docs/willem-dafoe-oh-yeah.gif' width=50%></img>
 
 ## The channels
 
@@ -21,6 +18,8 @@ Feel free to change/add/remove gifs in the channels dictionary at `/gifs`
 
 ### /buongiorno 
 
+<img src='./docs/buongiorno.png' width=50%></img>
+
 ```
 /buongiorno
 ```
@@ -34,6 +33,8 @@ I suggest you to play some chilling music with this channel ;)
 
 ## /midnightmovie 
 
+<img src='./docs/midnight.png' width=50%></img>
+
 ```
 /midnightmovie-guldo 
 ```
@@ -44,9 +45,12 @@ Thats for sure the channel that you must play when its midnight and you want to 
 
 ## /jailnight 
 
+<img src='./docs/jailnight.png' width=50%></img>
+
 ```
 /jailnight-guldo 
 ```
+
 What happens when a thief falls in love with a police girl ? Well, he starts to listen to `/jailnight-guldo`!
 
 This channel is for all bad boys that dream to ride a bike in the desert looking for redemption to conquer their lady that, unfortunately, she is a cop!
